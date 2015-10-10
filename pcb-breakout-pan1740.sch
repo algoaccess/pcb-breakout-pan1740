@@ -668,6 +668,25 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="SUPPLY1" gate="GND" pin="GND"/>
 <wire x1="58.42" y1="17.78" x2="58.42" y2="27.94" width="0.1524" layer="91"/>
 <junction x="58.42" y="27.94"/>
+<pinref part="JP1" gate="G$1" pin="7"/>
+<wire x1="20.32" y1="7.62" x2="20.32" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="27.94" x2="35.56" y2="27.94" width="0.1524" layer="91"/>
+<junction x="35.56" y="27.94"/>
+<pinref part="JP2" gate="G$1" pin="3"/>
+<wire x1="106.68" y1="7.62" x2="106.68" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="27.94" x2="101.6" y2="27.94" width="0.1524" layer="91"/>
+<pinref part="JP2" gate="G$1" pin="5"/>
+<wire x1="101.6" y1="27.94" x2="96.52" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="96.52" y1="27.94" x2="93.98" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="27.94" x2="58.42" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="101.6" y1="7.62" x2="101.6" y2="27.94" width="0.1524" layer="91"/>
+<junction x="101.6" y="27.94"/>
+<pinref part="JP2" gate="G$1" pin="7"/>
+<wire x1="96.52" y1="7.62" x2="96.52" y2="27.94" width="0.1524" layer="91"/>
+<junction x="96.52" y="27.94"/>
+<pinref part="JP2" gate="G$1" pin="8"/>
+<wire x1="93.98" y1="7.62" x2="93.98" y2="27.94" width="0.1524" layer="91"/>
+<junction x="93.98" y="27.94"/>
 </segment>
 </net>
 </nets>
