@@ -96,7 +96,7 @@ MIT license</text>
 <text x="0.74" y="3.87" size="0.6096" layer="21" rot="R90">01</text>
 <text x="0.16" y="18.24" size="0.6096" layer="21" rot="R270">13</text>
 <text x="30.34" y="3.81" size="0.6096" layer="21" rot="R90">12</text>
-<text x="30.39" y="17.22" size="0.6096" layer="21" rot="R90">13</text>
+<text x="30.39" y="17.22" size="0.6096" layer="21" rot="R90">24</text>
 </plain>
 <libraries>
 <library name="panasonic-pan1740">
